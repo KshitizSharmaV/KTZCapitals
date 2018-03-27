@@ -1,0 +1,2 @@
+#pip install "requests[security]" -----> Install this package when accesing websites with https connection
+#pip install html5lib   -------> Install for parsing Htmlpage becasue we have 2 libraries in this.
